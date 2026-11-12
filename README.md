@@ -24,7 +24,26 @@
 
 
 <!-- catalogo-projetos:inicio -->
-## Meus projetos
+
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/TonySantiagoRodrigues/AstBookStore-Front"><img src="assets/projects/ast-bookstore.svg" width="100%" alt="AstBookStore — React · Node.js · API"></a></td>
+<td width="50%"><a href="https://github.com/TonySantiagoRodrigues/Projeto-React"><img src="assets/projects/react.svg" width="100%" alt="Projeto React — React · JavaScript · Vite"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/TonySantiagoRodrigues/Projeto-portif-lio"><img src="assets/projects/portfolio.svg" width="100%" alt="Meu portfólio — HTML · CSS · Web"></a></td>
+<td width="50%"><a href="https://github.com/TonySantiagoRodrigues/BoardTasks-Back"><img src="assets/projects/boardtasks.svg" width="100%" alt="BoardTasks — Node.js · Express · API"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/TonySantiagoRodrigues/Projeto-API-Back"><img src="assets/projects/api.svg" width="100%" alt="Projeto API — JavaScript · Node.js · Swagger"></a></td>
+<td width="50%"><a href="https://github.com/TonySantiagoRodrigues/projeto-Landing-Page-v5"><img src="assets/projects/landing.svg" width="100%" alt="Landing pages — HTML · CSS · JavaScript"></a></td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Explorar todos os projetos por categoria</strong></summary>
 
 ### AstBookStore
 
@@ -83,5 +102,7 @@
 
 - [Integracaodedados](https://github.com/TonySantiagoRodrigues/Integracaodedados)
 - [TestIntegracaoTypescript](https://github.com/TonySantiagoRodrigues/TestIntegracaoTypescript)
+
+</details>
 
 <!-- catalogo-projetos:fim -->
